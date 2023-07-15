@@ -12,7 +12,7 @@ namespace eBusiness
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
-        }
+        }//atest
 
         public IConfiguration Configuration { get; }
 
